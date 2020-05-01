@@ -23,7 +23,7 @@ jobs:
         with:
           personal_token: ${{ secrets.token }}
           external_repository: neliumcode/neliumcode.github.io
-          publish_dir: ./public
+          publish_dir: /
           #   keep_files: true
           user_name: NeliumCode
           user_email: contacto@nelium.net
