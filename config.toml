@@ -2,7 +2,7 @@ baseURL = "http://www.nelium.net/"
 title = "NELIUM"
 
 # Se redirige el directorio que almacena la web estática a "public" a un nivel superior
-publishDir = "../public/neliumcode.github.io"
+publishDir = "public"
 
 # Se deshabilita la introducción de la línea que muestra la herramienta (HUGO) utilizada para la generación del site
 disableHugoGeneratorInject = true
