@@ -26,4 +26,4 @@ jobs:
           user_name: NeliumCode
           user_email: contacto@nelium.net
           publish_branch: master
-            cname: nelium.net
+          cname: nelium.net
