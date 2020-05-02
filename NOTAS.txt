@@ -1,3 +1,0 @@
-He creado en temas, tal y como recomienda HUGO la plantilla para el lenguaje español siguiendo los códigos i18n.
-
-Dicen que vendrá bien para que otros las puedan utilizar.
