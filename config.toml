@@ -70,12 +70,12 @@ languageName ="English"
 # Weight used for sorting.
 weight = 1
 
-[languages.no]
+[languages.es]
 # Eliminado el título ya que aparece el logotipo
 title = ""
-description = "Docsy er operativsystem for skyen"
+description = "Nelium página oficial"
 languageName ="Español"
-contentDir = "content/no"
+contentDir = "content/es"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
@@ -161,28 +161,24 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
 	name = "User mailing list"
-	url = "https://example.org/mail"
+	url = "mailto:contacto@nelium.net?subject=Solicitud%20de%20contacto%20a%20través%20de%20la%20página%20web%20de%20Nelium"
 	icon = "fa fa-envelope"
-        desc = "Discussion and help from your fellow users"
+        desc = "Contact e-mail"
 [[params.links.user]]
 	name ="Twitter"
 	url = "https://example.org/twitter"
 	icon = "fab fa-twitter"
         desc = "Follow us on Twitter to get the latest news!"
-[[params.links.user]]
-	name = "Stack Overflow"
-	url = "https://example.org/stack"
-	icon = "fab fa-stack-overflow"
-        desc = "Practical questions and curated answers"
+
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/google/docsy"
+	url = "https://github.com/NeliumCode"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 [[params.links.developer]]
 	name = "Slack"
-	url = "https://example.org/slack"
+	url = "https://ivanlab.slack.com/"
 	icon = "fab fa-slack"
         desc = "Chat with other project developers"
 [[params.links.developer]]
