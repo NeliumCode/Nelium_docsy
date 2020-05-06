@@ -4,7 +4,7 @@ title: "Documentation"
 linkTitle: "Documentation"
 menu:
   main:
-    weight: 60
+    weight: 30
 ---
 
 {{% pageinfo %}}
