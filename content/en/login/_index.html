@@ -1,0 +1,37 @@
+
+---
+title: "Login access"
+linkTitle: "Login"
+menu:
+  main:
+    weight: 40
+---
+<script>
+  /*Declaración de variable*/
+  var aviso_emergente;
+  /*Iniciar la variable*/
+  aviso_emergente="User or password incorret";
+  /*--Sentencia, con la función alert que hace uso de la variable declarada e iniciada--*/
+  
+  
+  </script>
+  
+{{< blocks/cover title="Clients and Crew access" image_anchor="top" height="full" color="orange" >}}
+<div class="mx-auto">
+<form name="login" action="" autocomplete="on">
+<fieldset>
+  <legend>User name</legend>
+  <input type="text" placeholder=" Your user name here " name="user_name"><br>
+</fieldset>
+<fieldset>
+  <legend>Password</legend>  
+  <input type="password" placeholder=" Your password here   " name="password"><br>
+</fieldset>
+<br>
+<button type="button" class="btn btn-lg btn-primary mr-3 mb-4" name="login">Enter <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+</button>
+</form>
+<p class="lead mt-5"><strong>Remember, user name and password are case sentive</strong></p>
+</div>
+
+{{< /blocks/cover >}}
