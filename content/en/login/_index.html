@@ -1,4 +1,3 @@
-
 ---
 title: "Login access"
 linkTitle: "Login"
@@ -7,14 +6,16 @@ menu:
     weight: 40
 ---
 <script>
+  /*Script básico que muestra mensaje de error al acceder, provisional hasta que este funcionando el script de Jira de abajo*/
   /*Declaración de variable*/
   var aviso_emergente;
   /*Iniciar la variable*/
   aviso_emergente="User or password incorret";
   /*--Sentencia, con la función alert que hace uso de la variable declarada e iniciada--*/
-  
-  
-  </script>
+  function myFunction() {
+  alert(aviso_emergente);
+  }
+</script>
   
 {{< blocks/cover title="Clients and Crew access" image_anchor="top" height="full" color="orange" >}}
 <div class="mx-auto">
@@ -28,10 +29,38 @@ menu:
   <input type="password" placeholder=" Your password here   " name="password"><br>
 </fieldset>
 <br>
-<button type="button" class="btn btn-lg btn-primary mr-3 mb-4" name="login">Enter <i class="fas fa-arrow-alt-circle-right ml-2"></i>
+<button type="button" class="btn btn-lg btn-primary mr-3 mb-4" name="login" onclick="myFunction()" >Enter <i class="fas fa-arrow-alt-circle-right ml-2"></i>
 </button>
 </form>
 <p class="lead mt-5"><strong>Remember, user name and password are case sentive</strong></p>
 </div>
 
 {{< /blocks/cover >}}
+
+<script>
+ /*Script de Jira para acceder a su servidor en el qeu hay que trabajar*/
+ /*Consultarlo en la página web https://developer.atlassian.com/cloud/jira/service-desk/creating-your-own-branded-customer-portal/ */
+
+script(src='//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js')
+script(src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+body.container
+.jumbotron
+h1 Welcome to Nelium!
+.content.col-xs-6
+h4
+| Please use the form below to contact us.
+br
+form
+each field in fields
+.form-group
+label(for=field.fieldId)
+strong #{field.name}
+input(id=field.fieldId).form-control(type='text', name=field.fieldId)
+.form-group
+label(for='email')
+strong What is your email address?
+input#email.form-control(type='text', name='email')
+button#contact.btn.btn-primary
+| Send
+script(src='contact.js')
+</script>
