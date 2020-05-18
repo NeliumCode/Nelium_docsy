@@ -88,7 +88,7 @@ time_format_blog = "02.01.2006"
 
 [params]
 copyright = "NELIUM"
-privacy_policy = "./privacidad.html"
+privacy_policy = "./docs/6-proteccion_datos_personales.html"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]

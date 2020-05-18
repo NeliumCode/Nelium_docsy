@@ -1,9 +1,9 @@
 ---
-title: "Jurisdiccion aplicable"
+title: "Jurisdicción aplicable"
 linkTitle: "Ley y Jurisdicción aplicables"
 weight: 1
 description: >
-  Ley y jusdicción aplicable a www.nelium.net
+  Ley y jurisdicción aplicable a www.nelium.net
 ---
 
 {{% pageinfo %}}

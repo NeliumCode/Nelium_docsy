@@ -11,21 +11,21 @@ NELIUM S.L. ha adoptado las medidas necesarias que, dentro de sus posibilidades 
 
 Sin embargo, NELIUM S.L. no puede hacerse responsable de las siguientes situaciones que se enumeran a título enunciativo, pero no limitativo:
 
-La continuidad y disponibilidad de los Contenidos.
+- La continuidad y disponibilidad de los Contenidos.
 
-La ausencia de errores en dichos Contenidos ni la corrección de cualquier defecto que pudiera ocurrir.
+- La ausencia de errores en dichos Contenidos ni la corrección de cualquier defecto que pudiera ocurrir.
 
-La ausencia de virus y/o demás componentes dañinos.
+- La ausencia de virus y/o demás componentes dañinos.
 
-Los daños o perjuicios que cause cualquier persona que vulnere los sistemas de seguridad de NELIUM S.L. o www.nelium.net
+- Los daños o perjuicios que cause cualquier persona que vulnere los sistemas de seguridad de NELIUM S.L. o www.nelium.net
 
-El uso que los usuarios puedan hacer de los contenidos incluidos en el web. En consecuencia, NELIUM S.L. no garantiza que el uso que los usuarios puedan hacer de los contenidos que en su caso se incluyan en el sitio web, se ajusten al presente aviso legal, ni que el uso del sitio web se realice de forma diligente.
+- El uso que los usuarios puedan hacer de los contenidos incluidos en el web. En consecuencia, NELIUM S.L. no garantiza que el uso que los usuarios puedan hacer de los contenidos que en su caso se incluyan en el sitio web, se ajusten al presente aviso legal, ni que el uso del sitio web se realice de forma diligente.
 
-El uso por menores de edad del sitio web o del envío de sus datos personales sin el permiso de sus tutores, siendo los tutores responsables del uso que hagan de Internet.
+- El uso por menores de edad del sitio web o del envío de sus datos personales sin el permiso de sus tutores, siendo los tutores responsables del uso que hagan de Internet.
 
-Los contenidos a los que el usuario pueda acceder a través de enlaces no autorizados o introducidos por usuarios mediante comentarios o herramientas similares.
+- Los contenidos a los que el usuario pueda acceder a través de enlaces no autorizados o introducidos por usuarios mediante comentarios o herramientas similares.
 
-La introducción de datos erróneos por parte del usuario o de un tercero.
+- La introducción de datos erróneos por parte del usuario o de un tercero.
 
 NELIUM S.L. podrá suspender temporalmente y sin previo aviso, la accesibilidad al sitio web con motivo de operaciones de mantenimiento, reparación, actualización o mejora. No obstante, siempre que las circunstancias lo permitan, NELIUM S.L. comunicará al usuario, con antelación suficiente, la fecha prevista para la suspensión de los contenidos.
 

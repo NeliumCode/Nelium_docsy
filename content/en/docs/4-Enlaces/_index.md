@@ -11,7 +11,7 @@ description: >
 La página web www.nelium.net puede incluir enlaces (links) a páginas web y recursos de terceros (en adelante «Sitios Enlazados»). La presencia de Sitios Enlazados en la página web de NELIUM hacia otros sitios de Internet tiene finalidad meramente
 informativa y en ningún caso suponen sugerencia, invitación o recomendación sobre los mismos.
 
-NELIUM S.L. no asirá responsabilidad alguna, ni realiza declaraciones, ni otorga garantías con respecto a la corrección, fiabilidad, exactitud, amplitud, veracidad, validez, funcionamiento o calidad del contenido, software, servicio o aplicación de ningún Sitio Enlazado.
+NELIUM S.L. no asumirá responsabilidad alguna, ni realiza declaraciones, ni otorga garantías con respecto a la corrección, fiabilidad, exactitud, amplitud, veracidad, validez, funcionamiento o calidad del contenido, software, servicio o aplicación de ningún Sitio Enlazado.
 
 NELIUM S.L. no se hace responsable de la disponibilidad de los Sitios Enlazados, de su contenido o de sus actividades. En caso de que Usted decida acceder a los Sitios Enlazados, lo hará a su propio riesgo.
 
